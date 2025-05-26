@@ -1,7 +1,7 @@
 import { Sequelize } from "sequelize";
 
 const db = new Sequelize('analog_camera_db', 'root', '', {
-    host: '34.57.165.209',
+    host: '34.41.243.5',
     dialect: 'mysql'
 });
 
